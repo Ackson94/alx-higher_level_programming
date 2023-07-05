@@ -9,6 +9,7 @@ This module has a function that adds 2 numbers
 def add_integer(a, b=98):
     """ adds two integer and/or float numbers
 
+    Args:
         a: 1st number
         b: 2nd number
 
