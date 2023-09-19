@@ -1,5 +1,5 @@
 # Object-relational mapping
-This project was completed during my Full Stack Software Engineering studies at Holberton School**. Its objective was to learn how to connect to a MySQL database from a Python script, understand the concept of ORM (Object-Relational Mapping), and acquire the skills to map a Python Class to a MySQL table.
+This project was completed during my **Full Stack Software Engineering studies at Holberton School**. Its objective was to learn how to connect to a MySQL database from a Python script, understand the concept of ORM (Object-Relational Mapping), and acquire the skills to map a Python Class to a MySQL table.
 
 ## Technologies
 * `MySQL 5.7` (version 5.7.8-rc)
