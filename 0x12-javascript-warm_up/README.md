@@ -70,8 +70,7 @@ Prototypes for functions written in this project:
   * [7-multi_c.js](./7-multi_c.js): JavaScript script that prints `x` times `'C is fun'`.
   * Usage: `./7-multi_c.js <x>`
   * If the first argument cannot be converted to a number, prints
-  `'Missing number of occurrences'`.
-
+  * 
 * **8. Square**
   * [8-square.js](./8-square.js): JavaScript script that prints a square.
   * Usage: `./8-square.js <size>`
@@ -98,18 +97,6 @@ Prototypes for functions written in this project:
 * **12. Object**
   * [12-object.js](./12-object.js): Update of the following script that replaces
   the value `12` with `89`.
-```
-#!/usr/bin/node
-const myObject = {
-  type: 'object',
-  value: 12
-};
-console.log(myObject);
-/*
-YOUR CODE HERE
-*/
-console.log(myObject);
-```
 
 * **13. Add file**
   * [13-add.js](./13-add.js): JavaScript function `add` that returns the addition
@@ -118,12 +105,6 @@ console.log(myObject);
 * **14. Const or not const**
   * [100-let_me_const.js](./100-let_me_const.js): JavaScript script that modifies
   the value of `myVar` in the following file to `333`.
-```
-#!/usr/bin/node
-myVar = 89;
-require('./100-let_me_const')
-console.log(myVar);
-```
 
 * **15. Call me Moby**
   * [101-call_me_moby.js](./101-call_me_moby.js): JavaScript function that executes
@@ -136,20 +117,4 @@ console.log(myVar);
 * **17. Increment object**
   * [103-object_fct.js](./103-object_fct.js): Update of the following JavaScript
   script adding a new function `incr` that increments the number `value`.
-```
-#!/usr/bin/node
-let myObject = {
-  type: 'object',
-  value: 12
-};
-console.log(myObject);
-/*
-YOUR CODE HERE
-*/
-myObject.incr();
-console.log(myObject);
-myObject.incr();
-console.log(myObject);
-myObject.incr();
-console.log(myObject);
-```
+
